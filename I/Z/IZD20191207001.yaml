@@ -1,0 +1,14 @@
+v: 1
+id: IZD20191207001
+mfg:
+  - serial: brc2c1
+  - name:
+    - ja-JP: ダイキン
+    - en-US: DAIKIN
+security:
+  - kiyomizu: false
+comment:
+  - en-US: |-
+     You will usually find this thermostat in Japanese Hotels.
+  - ja-JP: |-
+     このリモコンは日本のホテルでよく見かけます。
